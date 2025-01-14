@@ -74,6 +74,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,npm,bootstrap,spring,flutter,git,docker,kubernetes,postgres,mysql,redux,vscode,kafka,rabbitmq,blender,figma,ae,postman,dotnet,c,cpp,firebase,githubactions,idea,linux,materialui,mysql,opencv,selenium,tailwind,unity,vercel,visualstudio,maven&perline=13" />
+        <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,html,css,react,redux,tailwind,materialui,bootstrap,flutter,spring,dotnet,selenium,unity,git,githubactions,docker,kubernetes,linux,postgres,mysql,firebase,opencv,kafka,rabbitmq,maven,vscode,idea,visualstudio,blender,figma,ae,postman,vercel,npm,github&perline=13" />
   </a>
 </p>
