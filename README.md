@@ -10,7 +10,7 @@
 <table align="center">
 
 <tr border="none">
-<td width="50%" align="left">
+<td width="80%" align="left">
 
   
 - 🌱 I’m currently learning **Spring Boot | React | Docker | Kubernetes**
@@ -29,7 +29,7 @@
 
 
 
-<td width="50%" align="center">
+<td width="20%" align="center">
 
   <img align="center" alt="Coding" width="200px" height="200px" src="./gifs/giphy.gif">
 
@@ -39,11 +39,24 @@
 </table>
 
 ---
+
 <h3 align="center">My Statistics:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yesitha&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-theta-three.vercel.app?user=yesitha&theme=dark" alt="GitHub Streak" />
-</p>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center" height="200px">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yesitha&theme=dark&show_icons=true&count_private=true" />
+  
+</td>
+
+<td width="50%" align="center" height="200px">
+  <img src="https://github-readme-streak-stats-theta-three.vercel.app?user=yesitha&theme=dark"
+
+  </td>
+</tr>
+</table>
+
 
 ---
 
