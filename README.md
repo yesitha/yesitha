@@ -39,23 +39,11 @@
 </table>
 
 ---
-
 <h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center" height="200px">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yesitha&theme=dark&show_icons=true&count_private=true" />
-  
-</td>
-
-<td width="50%" align="center" height="200px">
-  <img src="https://streak-stats.demolab.com?user=yesitha&theme=dark"
-
-  </td>
-</tr>
-</table>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesitha&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=yesitha&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
