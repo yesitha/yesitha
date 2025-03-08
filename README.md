@@ -23,7 +23,7 @@
 
 - ✨ Visit my Portfolio - **[yesithasathsara.me](https://yesithasathsara.me)**
   
-- 📑 Here is [My Resume](https://drive.google.com/file/d/1sdh6lu3kaYpFP3pF_NyMoYjl8ezwcgdK/view?usp=sharing)
+- 📑 Here is [My Resume](https://drive.google.com/file/d/1WPn1uE_6BVLnXEDFr_tOYqS3q0vIa3yG/view?usp=sharing)
 
 </td>
 
